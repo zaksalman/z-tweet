@@ -7,4 +7,4 @@ https://github.com/ZeroCho/next-app-router-z/
 
 https://www.youtube.com/watch?v=cBg6xA5C60s&list=WL&index=1&t=188s
 
-57분
+2시간 16분
