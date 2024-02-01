@@ -5,6 +5,9 @@ https://github.com/ZeroCho/next-app-router-z/
 
 진행중 상황 : 메인 페이지//// URL /
 
-https://www.youtube.com/watch?v=cBg6xA5C60s&list=WL&index=1&t=188s
 
-2시간 16분
+dashboard
+https://www.youtube.com/watch?v=cBg6xA5C60s&list=WL&index=1&t=188s
+https://github.com/safak/nextadmin/tree/completed
+
+
