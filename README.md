@@ -10,4 +10,7 @@ dashboard
 https://www.youtube.com/watch?v=cBg6xA5C60s&list=WL&index=1&t=188s
 https://github.com/safak/nextadmin/tree/completed
 
-
+const [ formSearch ] = Form.useForm();
+const formValues = formSearch.getFieldsValue();
+searchValueRef.current={ ...formValues };
+paginationValueRef.current ={ ...paginationValueRef.current, currentPage: 1, pageSize: 20 };
