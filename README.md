@@ -16,5 +16,7 @@ https://github.com/safak/next14-tutorial
 //chat
 https://www.youtube.com/watch?v=domt_Sx-wTY
 
+27분
+
 
 
